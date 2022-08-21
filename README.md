@@ -8,4 +8,4 @@
 <br><br>
 ![Screenshot (464)](https://user-images.githubusercontent.com/85762282/185811842-1df8d8ec-ddfc-4047-b564-2ed81ae04d21.png)
 <br><br>
-<a href="https://kanha412.github.io/Spotify_Clone/" target="_blank" style="text-decoration:none;"><i><b>Have A Look By Clicking Here</b></i></a>
+<a href="https://kanha412.github.io/Brick_Breaker_Game/" target="_blank" style="text-decoration:none;"><i><b>Have A Look By Clicking Here</b></i></a>
